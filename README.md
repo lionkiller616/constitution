@@ -1,0 +1,2 @@
+# constitution
+constitution of Lion
